@@ -1,0 +1,2 @@
+[build]
+  publish = "<path_to_public_dir>"
